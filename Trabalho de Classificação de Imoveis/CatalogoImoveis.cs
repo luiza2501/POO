@@ -16,8 +16,11 @@ public class CatalogoImoveis
     }
 
     // Método para remover um imóvel
-    public void Remover(Imovel imovel)
+    public void Remover(int id)
     {
+        for (int i = 0; i < imoveis.Count; i++){
+            
+        }
         imoveis.Remove(imovel);
     }
 //Declarei o método VerificarCatalogo

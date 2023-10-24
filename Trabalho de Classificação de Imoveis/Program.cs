@@ -14,20 +14,22 @@
 while(resposta != 5){
     resposta = Menu();
     if(resposta == 1){
-     console.WriteLine("Qual o ID do produto?");
-     int codigo = int.Parse(Console.ReadLine());
+        int id = int.Parse(Console.ReadLine());
+        string endereco  = string.Parse(Console.ReadLine());
+        double preco = double.Parse(Console.ReadLine());
+        double MetrosQuadrados = double.Parse(Console.ReadLine());
+        Imovel casa = new Imovel(id, endereco, preco, MetrosQuadrados);
+
+        Adicionar();
     }
     if(resposta == 2){
-       console.WriteLine("Qual o endereço do Imovel?");
-        int codigo = int.Parse(Console.ReadLine());
+
     }
     if(resposta == 3){
-    console.WriteLine("Qual o preço do Imovel?");
-     int codigo = int.Parse(Console.ReadLine());
+
     }
     if(resposta == 4){
-      console.WriteLine("Quantos metros quadrados tem o Imovel?") ;
-       int codigo = int.Parse(Console.ReadLine()); 
+
     }
     }
 
