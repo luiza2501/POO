@@ -18,11 +18,18 @@ while(resposta != 5){
         string endereco  = string.Parse(Console.ReadLine());
         double preco = double.Parse(Console.ReadLine());
         double MetrosQuadrados = double.Parse(Console.ReadLine());
-        Imovel casa = new Imovel(id, endereco, preco, MetrosQuadrados);
+        Casa casa = new Casa(id, endereco, preco, MetrosQuadrados);
 
         Adicionar();
     }
     if(resposta == 2){
+       int id = int.Parse(Console.ReadLine());
+        string endereco  = string.Parse(Console.ReadLine());
+        double preco = double.Parse(Console.ReadLine());
+        double MetrosQuadrados = double.Parse(Console.ReadLine());
+        Apartamento apartamento = new Apartamento(id, endereco, preco, MetrosQuadrados);
+
+        Adicionar(); 
 
     }
     if(resposta == 3){

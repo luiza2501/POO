@@ -1,0 +1,5 @@
+D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.csproj.AssemblyReference.cache
+D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.AssemblyInfoInputs.cache
+D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.AssemblyInfo.cs
+D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.csproj.CoreCompileInputs.cache
