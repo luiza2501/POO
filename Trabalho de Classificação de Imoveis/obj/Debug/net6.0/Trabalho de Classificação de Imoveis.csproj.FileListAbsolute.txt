@@ -3,3 +3,18 @@ D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imov
 D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.AssemblyInfoInputs.cache
 D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.AssemblyInfo.cs
 D:\Users\20221170150035\Documents\GitHub\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.csproj.CoreCompileInputs.cache
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.csproj.AssemblyReference.cache
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.AssemblyInfoInputs.cache
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.AssemblyInfo.cs
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.csproj.CoreCompileInputs.cache
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\bin\Debug\net6.0\Trabalho de Classificação de Imoveis.exe
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\bin\Debug\net6.0\Trabalho de Classificação de Imoveis.deps.json
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\bin\Debug\net6.0\Trabalho de Classificação de Imoveis.runtimeconfig.json
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\bin\Debug\net6.0\Trabalho de Classificação de Imoveis.dll
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\bin\Debug\net6.0\Trabalho de Classificação de Imoveis.pdb
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.dll
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\refint\Trabalho de Classificação de Imoveis.dll
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.pdb
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\Trabalho de Classificação de Imoveis.genruntimeconfig.cache
+D:\Users\20221170150035\Documents\Nova pasta\POO\Trabalho de Classificação de Imoveis\obj\Debug\net6.0\ref\Trabalho de Classificação de Imoveis.dll

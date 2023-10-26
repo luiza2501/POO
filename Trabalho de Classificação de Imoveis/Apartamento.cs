@@ -9,8 +9,8 @@ public class Apartamento : Imovel
         this.preco = preco;
     }
 
-    public override void Verificarimovel()
+    public override void VerificarImovel()
     {
-        Console.WriteLine($"Apartamento: {id}, Endereço  {this.Endereco}, Preço: {this.Preco}, Metros Quadrados: {MetrosQuadrados}");
+        Console.WriteLine($"Apartamento: {this.id}, Endereço  {this.endereco}, Preço: {this.preco}, Metros Quadrados: {this.metrosQuadrados}");
     }
 }

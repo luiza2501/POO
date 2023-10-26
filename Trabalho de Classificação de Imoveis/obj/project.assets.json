@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\20221170150035\\Documents\\GitHub\\POO\\Trabalho de Classificação de Imoveis\\Trabalho de Classificação de Imoveis.csproj",
+      "projectUniqueName": "D:\\Users\\20221170150035\\Documents\\Nova pasta\\POO\\Trabalho de Classificação de Imoveis\\Trabalho de Classificação de Imoveis.csproj",
       "projectName": "Trabalho de Classificação de Imoveis",
-      "projectPath": "D:\\Users\\20221170150035\\Documents\\GitHub\\POO\\Trabalho de Classificação de Imoveis\\Trabalho de Classificação de Imoveis.csproj",
+      "projectPath": "D:\\Users\\20221170150035\\Documents\\Nova pasta\\POO\\Trabalho de Classificação de Imoveis\\Trabalho de Classificação de Imoveis.csproj",
       "packagesPath": "D:\\Users\\20221170150035\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\20221170150035\\Documents\\GitHub\\POO\\Trabalho de Classificação de Imoveis\\obj\\",
+      "outputPath": "D:\\Users\\20221170150035\\Documents\\Nova pasta\\POO\\Trabalho de Classificação de Imoveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\20221170150035\\AppData\\Roaming\\NuGet\\NuGet.Config"

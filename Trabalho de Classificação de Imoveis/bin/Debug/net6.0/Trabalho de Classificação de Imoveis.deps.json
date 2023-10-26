@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Trabalho de Classificação de Imoveis/1.0.0": {
+        "runtime": {
+          "Trabalho de Classificação de Imoveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho de Classificação de Imoveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
