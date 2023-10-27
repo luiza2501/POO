@@ -52,7 +52,7 @@
             }
 
             else if(resposta == 4){
-
+                CatalogoImoveis.VerificarCatalogo();
             }
         }
     }

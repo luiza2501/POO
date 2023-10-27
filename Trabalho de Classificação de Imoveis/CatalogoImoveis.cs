@@ -15,18 +15,17 @@ public class CatalogoImoveis
     public static void Remover(int id)
     {
         for (int i = 0; i < imoveis.Count; i++){
-            
+           if(imoveis[i].id == id){
+            imoveis.RemoveAt(i);
+           }
         }
     } 
 //Declarei o método VerificarCatalogo
-     public void VerificarCatalogo()
+     public static void VerificarCatalogo()
     {
-        //Usei o metodo de repetição foreach iniciar a linha de codigo abaixo que vai ser repetido a cada Imovel na lista
-        foreach (var imovel in imoveis)
-        {
-            Console.WriteLine($"ID: {imovel.id}, Endereço: {imovel.endereco}, Preço: {imovel.preco}, Metros Quadrados: {imovel.metrosQuadrados}.");
-         
+        for (int i = 0; i < imoveis.Count; i++){
+            imoveis[i].VerificarImovel();
         }
-    }
+    }   
 
 }

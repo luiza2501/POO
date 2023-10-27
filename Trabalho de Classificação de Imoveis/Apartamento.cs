@@ -11,6 +11,13 @@ public class Apartamento : Imovel
 
     public override void VerificarImovel()
     {
-        Console.WriteLine($"Apartamento: {this.id}, Endereço  {this.endereco}, Preço: {this.preco}, Metros Quadrados: {this.metrosQuadrados}");
+        Console.WriteLine("ID do Apartamento:");
+        Console.WriteLine(this.id);
+        Console.WriteLine("Endereço do Apartamento:");
+        Console.WriteLine(this.endereco);
+        Console.WriteLine("Preço do Apartamento:");
+        Console.WriteLine(this.preco);
+        Console.WriteLine("Metros Quadraros do Apartamento:");
+        Console.WriteLine(this.metrosQuadrados);
     }
 }

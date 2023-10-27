@@ -11,6 +11,13 @@ public class Casa : Imovel
 
     public override void VerificarImovel()
     {
-        Console.WriteLine($"Casa: {this.id}, Endereço {this.endereco}, Preço: {this.preco}, Metros Quadrados: {this.metrosQuadrados}");
+        Console.WriteLine("ID da Casa:");
+        Console.WriteLine(this.id);
+        Console.WriteLine("Endereço da Casa:");
+        Console.WriteLine(this.endereco);
+        Console.WriteLine("Preço da Casa:");
+        Console.WriteLine(this.preco);
+        Console.WriteLine("Metros Quadraros da Casa:");
+        Console.WriteLine(this.metrosQuadrados);
     }
 }
